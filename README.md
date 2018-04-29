@@ -1,6 +1,6 @@
 # RestAPI-with-flask
 
-A framework build on REST API to power up the python app and display the data on UI.
+A flask based framework build on REST API to power up the python app and display the data on UI.
 <br> https://rest-api-with-flask.herokuapp.com/
 <br>
 
